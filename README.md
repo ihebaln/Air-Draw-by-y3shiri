@@ -5,24 +5,24 @@ Application tkhalik tosem b yeddek fl hwe ! Testa3mel AI bch teta3ref idik w tor
 
 ## ✨ Chnouwa tnajem ta3mel
 
-- ☝️ **Torsem** - kharrej sob3ek (index) w torsem
-- ✋ **Tfassakh** - hel yedek bch temsa7
+- ☝️ **Torsem** - Kharrej sob3ek (index) w torsem
+- ✋ **Tfassakh** - Hel yedek bch temsa7
 - 🤏 **T7awel el draw** - A3mel yedek kima l position eli fl emoji besh t7awel eli rsamtou
 - 🎨 **8 Couleurs** - Andek 8 couleurs tnajm takhtar menhom
 - 📏 **Gros sel** - Harrek l'slider bch tkabber w tsagher l'rasma
 - ✨ **Glow** - Zid glow 3la l'rasmat
 - 💾 **Save** - Tnajem tsajel shnoua rsamt
 
-## 🎮 Kifeh testa3mel l'idik
+## 🎮 Kifeh testa3mel yedek
 
 | Gesture | Chnouwa ta3mel |
 |---------|----------------|
-| ☝️ Sob3ek mrigel | torsemm |
+| ☝️ Sob3ek mrigel | Torsemm |
 | ✋ Idik ma7loul | Temsa7 |
-| 🤏 Pinch (sobec + index) | T'hot w t'zid l'rasma |
-| ✊ Qbida (idik mghamda) | Testanna (ma ta3mel chay) |
+| 🤏 Pinch (sob3ek + index) | Thot w tzid l'rasma |
+| ✊ Idek msakra (idik mghamda) | Testanna (ma ta3mel chay) |
 
-## 🚀 Kifeh t'chaghleha
+## 🚀 Kifeh Tkhadem l app
 
 ### Chnouwa test7a9
 - **Node.js** (habtou men [nodejs.org](https://nodejs.org/))
