@@ -17,7 +17,7 @@ Application tkhalik tosem b yeddek fl hwe ! Testa3mel AI bch teta3ref idik w tor
 
 | Gesture | Chnouwa ta3mel |
 |---------|----------------|
-| ☝️ Sobec mrigel | torsemm |
+| ☝️ Sob3ek mrigel | torsemm |
 | ✋ Idik ma7loul | Temsa7 |
 | 🤏 Pinch (sobec + index) | T'hot w t'zid l'rasma |
 | ✊ Qbida (idik mghamda) | Testanna (ma ta3mel chay) |
