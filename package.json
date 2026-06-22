@@ -1,0 +1,13 @@
+{
+  "name": "air-draw",
+  "version": "1.0.0",
+  "description": "Draw in the air with hand gestures! 🎨",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
