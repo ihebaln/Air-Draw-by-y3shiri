@@ -1,4 +1,5 @@
 # 🎨 Air Draw - Orsem b yeddek!
+### Tansech follow instagram (@y3shiri) XD
 
 Application tkhalik tosem b yeddek fl hwe ! Testa3mel AI bch teta3ref idik w torsem b sob3ek.
 
@@ -26,10 +27,6 @@ Application tkhalik tosem b yeddek fl hwe ! Testa3mel AI bch teta3ref idik w tor
 ### Chnouwa test7a9
 - **Node.js** (habtou men [nodejs.org](https://nodejs.org/))
 - **Webcam** (elli f'pc walla externe bl tlf)
-
-### Khteet
-
-### Tansech follow instagram (@y3shiri) XD
 
 1. **7el Terminal** fil dossier mte3ek
 
